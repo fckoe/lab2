@@ -3,7 +3,7 @@ name: Lab2 ARM-Template Deploy Storage
 on: workflow_dispatch
 
 env:
-  AZURERG: feDevSquad
+  AZURERG: feDevSquadLab2
   AZUREREGION: eastus
 
 jobs:
